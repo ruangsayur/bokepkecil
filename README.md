@@ -32,7 +32,7 @@ The following environment variables are required to run the project:
 
 ```bash
 git clone <repo-url> bokepbarat
-cd doodstream-web
+cd bokepbarat
 ```
 
 2. Install dependencies
@@ -55,7 +55,7 @@ npm run dev
 
 ```bash
 git clone <repo-url> bokepbarat
-cd doodstream-web
+cd bokepbarat
 ```
 
 2. Install dependencies
