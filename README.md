@@ -1,4 +1,4 @@
-# bokep barat🎥
+# bokep idaman🎥
 
 An SSR video streaming frontend which uses doodstream.com as a backend. It is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
@@ -16,7 +16,7 @@ An SSR video streaming frontend which uses doodstream.com as a backend. It is bu
 
 ## Live Demo
 
-A live demo of the project is available at [https://bokepbarat.pages.dev](https://bokepbarat.pages.dev/).
+A live demo of the project is available at [https://bokepidaman.pages.dev](https://bokepidaman.pages.dev/).
 
 ## Configuration
 
@@ -24,15 +24,15 @@ The following environment variables are required to run the project:
 
 -   `DOODSTREAM_API_KEY`: API key for doodstream.com
 -   `DOODSTREAM_API_URL`: API URL for doodstream.com (default: `https://doodapi.com`)
--   `SITENAME`: Name of the website (default: `bokep barat`)
+-   `SITENAME`: Name of the website (default: `bokep idaman`)
 
 ## Development
 
 1. Clone the repository
 
 ```bash
-git clone <repo-url> bokepbarat
-cd bokepbarat
+git clone <repo-url> bokepidaman
+cd bokepidaman
 ```
 
 2. Install dependencies
@@ -54,8 +54,8 @@ npm run dev
 1. Clone the repository
 
 ```bash
-git clone <repo-url> bokepbarat
-cd bokepbarat
+git clone <repo-url> bokepidaman
+cd bokepidaman
 ```
 
 2. Install dependencies
